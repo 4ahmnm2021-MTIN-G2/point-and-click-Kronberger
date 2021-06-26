@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 853772093
+    locked: 0
+  - name: ingredients
+    uniqueID: 3577060001
+    locked: 0
+  - name: Bartender
+    uniqueID: 4190034885
+    locked: 0
+  - name: counter
+    uniqueID: 3001098633
+    locked: 0
